@@ -4,7 +4,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { Link } from 'react-router-dom'
 
 const navLinks = [
-  { label: 'Условия обслуживания', href: '/terms' },
+  { label: 'Условия использования', href: '/terms' },
   { label: 'Политика конфиденциальности', href: '/privacy' },
 ]
 

@@ -201,7 +201,7 @@ const Terms = () => {
         <div className="container mx-auto px-4 lg:px-8">
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6 }} className="max-w-3xl mx-auto text-center">
             <h1 className="text-4xl md:text-5xl font-black text-foreground mb-4">Terms of Service</h1>
-            <p className="text-muted-foreground text-lg">Пользовательское соглашение</p>
+            <p className="text-muted-foreground text-lg">Условия использования</p>
             <p className="text-sm text-muted-foreground mt-3">Последнее обновление: 2 марта 2026 г.</p>
           </motion.div>
         </div>
