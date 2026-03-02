@@ -49,3 +49,7 @@ bun-debug.log*
 *.kate-swp
 .vimrc
 .vim/
+node_modules/
+dist/
+.env
+.DS_Store
