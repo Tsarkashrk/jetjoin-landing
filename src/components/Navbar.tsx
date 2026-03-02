@@ -40,9 +40,6 @@ const Navbar = () => {
                   {link.label}
                 </Link>
               ))}
-              <Link to="#cta" className="px-5 py-2 rounded-full border border-foreground/30 text-sm font-medium text-foreground text-center">
-                Войти
-              </Link>
             </div>
           </motion.div>
         )}
