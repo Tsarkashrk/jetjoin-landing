@@ -168,18 +168,15 @@ const Terms = () => {
         <div className="p-6 rounded-2xl glow-card bg-card/60 border border-border">
           <div className="space-y-3 text-muted-foreground">
             <p>
-              <strong className="text-foreground">ТОО «JetJoin»</strong>
+              <strong className="text-foreground">БИН:</strong> 200340013995
             </p>
             <p>
-              <strong className="text-foreground">БИН:</strong> [указать]
-            </p>
-            <p>
-              <strong className="text-foreground">Адрес:</strong> [указать]
+              <strong className="text-foreground">Адрес:</strong> Казахстан, город Алматы, Бостандыкский район, Проспект Гагарина, дом 311А, кв. 162, почтовый индекс 050000
             </p>
             <p>
               <strong className="text-foreground">Email:</strong>{' '}
               <a href="mailto:support@jetjoin.kz" className="text-primary hover:underline">
-                support@jetjoin.kz
+                mirzagaly.dev@gmail.com
               </a>
             </p>
           </div>
