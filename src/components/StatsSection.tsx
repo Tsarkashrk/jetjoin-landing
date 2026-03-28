@@ -42,7 +42,7 @@ const StatsSection = () => {
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
-          className="text-3xl md:text-4xl font-black text-foreground mb-16 max-w-xl leading-tight"
+          className="text-2xl md:text-3xl font-black text-foreground mb-16 max-w-xl leading-tight"
         >
           Отправляйте посылки быстрее, чем курьерские службы через верифицированного путешественника
         </motion.h2>
